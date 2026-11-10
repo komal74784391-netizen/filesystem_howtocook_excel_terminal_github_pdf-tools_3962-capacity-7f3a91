@@ -1,0 +1,7 @@
+block,resident_pct_per_100gb,transient_pct_per_100gb,note
+weights_store,100,0,1 GiB ~= 1.0737 GB
+kv_cache_arena,60,40,1 GiB ~= 1.0737 GB
+vector_index_map,100,0,
+activation_pool,10,90,
+telemetry_ring,80,20,
+staging_scratch,25,75,
